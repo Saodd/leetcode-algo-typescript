@@ -1,6 +1,6 @@
 # leetcode-algo-typescript
 
-[![Github-Actions](https://github.com/Saodd/leetcode-algo-typescript/workflows/Jest/badge.svg?branch=master)](https://saodd.github.io/leetcode-algo-typescript/index.html)
+[![Github-Actions](https://github.com/Saodd/leetcode-algo-typescript/actions/workflows/jest.yml/badge.svg)](https://saodd.github.io/leetcode-algo-typescript/index.html)
 
 （点击上面的icon可以跳转测试覆盖度报告哦）
 
