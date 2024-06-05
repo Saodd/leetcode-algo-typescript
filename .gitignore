@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# node.js
+node_modules
+
+# Output of the jest coverage tool
+/coverage
+
+# IDE
+.idea

@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-algo",
+  "version": "0.0.0",
+  "description": "leetcode algo problem answers",
+  "repository": "https://github.com/Saodd/leetcode-algo.git",
+  "author": "Lewin Lan <lewin.lan.cn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "7.24.6",
+    "@babel/preset-env": "7.24.6",
+    "@babel/preset-typescript": "7.24.6",
+    "babel-jest": "29.7.0",
+    "jest": "29.7.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.0"
+  }
+}
